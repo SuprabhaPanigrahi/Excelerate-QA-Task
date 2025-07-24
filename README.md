@@ -33,7 +33,7 @@ cypress/
   └── ChangePasswordPage.js // Changing password Action
 ├── fixtures/
       test_users.json
-├── screenshots/ // (If available) Screenshots of test execution
+├── screenshots/ // Screenshots of test execution
 ├── Test_Cases.xslx
 
 ---
