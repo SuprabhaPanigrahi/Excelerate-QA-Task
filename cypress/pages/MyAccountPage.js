@@ -16,5 +16,4 @@ export class MyAccountPage {
         this.elements.signOutLink().should('be.visible').click()
     }
 }
-
 export const myAccountPage = new MyAccountPage()

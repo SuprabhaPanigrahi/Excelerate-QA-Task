@@ -20,5 +20,4 @@ export class ChangePasswordPage {
         this.elements.saveBtn().should('be.visible').click()
     }
 }
-
 export const changePasswordPage = new ChangePasswordPage()
