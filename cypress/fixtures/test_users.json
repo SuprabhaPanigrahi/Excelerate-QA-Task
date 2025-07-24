@@ -1,0 +1,9 @@
+{
+    "valid_user": {
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "",
+        "password": "Test@12345",
+        "newPassword": "Test@54321"
+    }
+}
